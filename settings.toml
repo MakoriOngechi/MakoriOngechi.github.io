@@ -117,7 +117,7 @@ description = ""
 url = ""
 image = ""
 date = ""
-category = ""
+category = "Journalism"
 outlet = ""
 
 # ── A photo essay stored right here on your site ────────────
@@ -143,10 +143,32 @@ photos = [
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
+[[work]]
+title = ""
+description = ""
+category = "Audio"
+photos = [
+  "media",
+  "media",
+  "media",
+  "media",
+  "",
+
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
+
+[[work]]
+title = ""
+description = ""
+category = "Video"
+photos = [
+  "media",
+  "media",
+  "media",
+  "media",
+  "",
 
 
 
