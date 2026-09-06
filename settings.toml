@@ -128,6 +128,7 @@ outlet = ""
 #
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
+
 [[work]]
 title = "Saturday at the farmers market"
 description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
@@ -139,7 +140,7 @@ photos = [
   "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
   "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
   "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
-
+  ]
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
