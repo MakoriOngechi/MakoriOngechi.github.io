@@ -130,10 +130,10 @@ title = ""
 description = ""
 category = "Photojournalism"
 photos = [
-  "media",
-  "media",
-  "media",
-  "media",
+  "media/",
+  "media/",
+  "media/",
+  "media/",
   "",
   ]
 
