@@ -129,13 +129,12 @@ outlet = ""
 [[work]]
 title = ""
 description = ""
+date = "February 2026"
 category = "Photojournalism"
 photos = [
-  "media/",
-  "media/",
-  "media/",
-  "media/",
-  "",
+  "media/my-essay/photo1.jpg | First caption here.",
+  "media/my-essay/photo2.jpg | Second caption here.",
+  "media/my-essay/photo3.jpg",
   ]
   
 # ── An audio story stored on your site ──────────────────────
