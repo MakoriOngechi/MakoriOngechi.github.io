@@ -119,6 +119,7 @@ image = ""
 date = ""
 category = "Journalism"
 outlet = ""
+]
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -136,7 +137,6 @@ photos = [
   "media/",
   "",
   ]
-
   
 # ── An audio story stored on your site ──────────────────────
 #
@@ -153,6 +153,7 @@ photos = [
   "media",
   "media",
   "",
+  ]
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -169,8 +170,7 @@ photos = [
   "media",
   "media",
   "",
-
-
+  ]
 
 # ============================================================
 #  OPTIONAL EXTRAS — colors and fonts
