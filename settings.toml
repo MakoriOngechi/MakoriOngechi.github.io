@@ -120,10 +120,6 @@ date = ""
 category = ""
 outlet = ""
 
-
-
-
-
 # ── A photo essay stored right here on your site ────────────
 #
 # No url needed! List the photos and clicking the work opens a
@@ -141,12 +137,11 @@ photos = [
   "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
   "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
   ]
+  
 # ── An audio story stored on your site ──────────────────────
 #
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
-
-
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
