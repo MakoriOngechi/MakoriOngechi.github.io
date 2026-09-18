@@ -124,6 +124,7 @@ title = "Photojournalism Assignment"
 description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
 category = "Photojournalism"
+
 photos = [
   "media/photo-assignment/repeating-pattern.jpg | Repeating Pattern",
   "media/photo-assignment/perspective.jpg | Perspective",
